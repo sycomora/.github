@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/sycomora/.github/blob/main/images/Welcome%2C%20to%20Sycomora!.png" width="500"></p>
 
-### <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif?cid=ecf05e47fj0bk6gk7zjhi4x83c3t88pscocpf2gm4sxkp4w4&rid=giphy.gif&ct=g"> Hello There!
+### <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif?cid=ecf05e47fj0bk6gk7zjhi4x83c3t88pscocpf2gm4sxkp4w4&rid=giphy.gif&ct=g" width="50"> Hello There!
 
 Welcome to Sycomora, where we develop inhouse design for our Website, using OpenSource for FrontEnd and BackEnd Services.
 
